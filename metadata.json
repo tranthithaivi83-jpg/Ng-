@@ -1,0 +1,7 @@
+{
+  "name": "HSE Construction Safety Inspector",
+  "description": "An AI-powered application for construction site safety analysis. Upload site images to detect PPE violations, scaffolding issues, and other safety hazards with real-time bounding box visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
